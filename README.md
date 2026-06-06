@@ -35,12 +35,12 @@ SSH access is restricted to trusted source IPs and authentication is enforced us
 
 ## Repository Structure
 
-```text
+``text
 modules/
 ├── network/            # VNet + Subnet
 ├── network-security/   # NSG + Security Rules
 └── compute/            # VM + NIC + Public IP
-```
+``
 
 ## Security
 
